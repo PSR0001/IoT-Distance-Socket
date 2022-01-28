@@ -14,6 +14,24 @@ For the server side, visit [IoT-Socket-Server](https://github.com/PSR0001/Roboti
 <br>
 
 
+## **Circuit Diagram**
+<img align="left" alt="C plus plus" src="./images/ultra.jpeg" />
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+[Ultrasonic Sensor HC-SR04 (SEN-15569)](https://www.maxbotix.com/articles/how-ultrasonic-sensors-work.htm#:~:text=An%20ultrasonic%20sensor%20is%20an,information%20about%20an%20object's%20proximity.)
+
+This is the HC-SR04 ultrasonic ranging sensor. This economical sensor provides 2cm to 400cm of non-contact measurement functionality with a ranging accuracy that can reach up to 3mm.
+
 
 
 
