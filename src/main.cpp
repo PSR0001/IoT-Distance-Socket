@@ -24,9 +24,9 @@ int distance;
 #define TRIGPIN  D4
 #define ECHOPIN  D3
 #define BAUD_RATE 115200
-#define SSID "vivo 1816"
-#define PASSWORD "12345PSR"
-#define ADDRESS "test-code-0001.herokuapp.com"
+#define SSID "Your-SSID"
+#define PASSWORD "YOUR-PASSWORD"
+#define ADDRESS "test-code-0001.herokuapp.com" 
 #define PORT 80
 #define URL "/socket.io/?EIO=4"
 
